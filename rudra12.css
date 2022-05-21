@@ -1,0 +1,21 @@
+h1{
+    color:rgb(255, 0, 0);
+    font-style: oblique;
+    height: 10px;
+    width: 20px;
+    text-align: left;
+}
+h3{
+
+    color: #ff0000;
+    font-style: normal;
+    background-color: aliceblue;
+    background-position-x: left;
+    background-position-y: center;
+    text-align: right;
+    border-radius: 100px;
+}
+h5{
+    color: #ff0000;
+    font-style: normal; 
+}
